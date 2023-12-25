@@ -15,6 +15,8 @@ Many thanks to @flamepanther for the SGB Vaporwave palettes and Al\_Levin on Red
 for the Unique Games and Unusued BIOS palettes.
 (Also included are a few fixed base palettes that didn't have the LCD\_Off set correctly)
 
+More information and discussion can be found on [r/AnaloguePocket](https://www.reddit.com/r/AnaloguePocket/comments/18q2iz1/collection_of_all_official_game_boy_color_and)
+
 ## Credits
 
 * flamepanther
