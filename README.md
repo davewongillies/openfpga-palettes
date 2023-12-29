@@ -30,7 +30,7 @@ More information and discussion can be found on [r/AnaloguePocket](https://www.r
 
 ## Want to make your own?
 
-Al_\Levin made a neat little online palette editor [here](https://simplepalettemaker.streamlit.app/).
+Al\_Levin made a neat little online palette editor [here](https://simplepalettemaker.streamlit.app/).
 
 ## Credits
 
