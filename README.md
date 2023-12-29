@@ -6,6 +6,8 @@ A collection of standard palettes for GB Color and SGB.
 You can find the original archive [served from discord here](https://cdn.discordapp.com/attachments/136631046933315585/1188860302167650417/AP_-_Palettes_Collection_-_2023-12-25_v3.zip?ex=659c0f6f&is=65899a6f&hm=91fc646ff66b817e6d22adb0e9568cbdc5f560eae0044d0b20c1131c0930eaf4&),
 and another archive mirror [here](https://files.catbox.moe/4bujqi.zip).
 
+More information and discussion can be found on [r/AnaloguePocket](https://www.reddit.com/r/AnaloguePocket/comments/18q2iz1/collection_of_all_official_game_boy_color_and)
+
 ## Contents
 
 Full List of palettes:
@@ -43,12 +45,6 @@ Important warning: There is currently flashing as the LCD off color doesn't work
 correctly, if you're sensitive to strobing effects don't use the inverted profiles.
 On regular profiles it should not be visible
 
-Many thanks to @flamepanther for the SGB Vaporwave palettes and Al\_Levin on Reddit
-for the Unique Games and Unusued BIOS palettes.
-(Also included are a few fixed base palettes that didn't have the LCD\_Off set correctly)
-
-More information and discussion can be found on [r/AnaloguePocket](https://www.reddit.com/r/AnaloguePocket/comments/18q2iz1/collection_of_all_official_game_boy_color_and)
-
 ## Want to make your own?
 
 Al\_Levin made a neat little online palette editor [here](https://simplepalettemaker.streamlit.app/).
@@ -56,9 +52,9 @@ Al\_Levin made a neat little online palette editor [here](https://simplepalettem
 ## Credits
 
 * u/Al\_Levin: For the unique Games and unused palettes from the GBC Bios
-* u/Flamepanther: For the SGB2: Vaporwave Edition palettes
+* @TheRealFlamepanther: For the SGB2: Vaporwave Edition palettes
 * TheWolfBunny64 on DeviantArt: NSO and 3DS palettes, as well as all the other
   displays listed above
 * Sho on Discord for the BGB palettes
-* RAHelllord: for the LE and Pipboy palettes with the power eye dropper tools,
+* u/RAHelllord: for the LE and Pipboy palettes with the power eye dropper tools,
   and converting the rest from their respective creators
