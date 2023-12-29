@@ -22,3 +22,4 @@ More information and discussion can be found on [r/AnaloguePocket](https://www.r
 * flamepanther
 * R.A.Helllford
 * u/Al\_Levin
+* TheWolfBunny64
