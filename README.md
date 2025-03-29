@@ -58,3 +58,4 @@ Al\_Levin made a neat little online palette editor [here](https://simplepalettem
 * Sho on Discord for the BGB palettes
 * u/RAHelllord: for the LE and Pipboy palettes with the power eye dropper tools,
   and converting the rest from their respective creators
+* @MonOfLetters for porting the stock Analogue Pocket palettes
